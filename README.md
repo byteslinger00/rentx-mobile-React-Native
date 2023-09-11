@@ -3,7 +3,6 @@
 <p align="center">
 	<img src="https://img.shields.io/github/repo-size/waugustoaf/rentx-mobile?style=for-the-badge" />
 	<img src="https://img.shields.io/github/languages/count/waugustoaf/rentx-mobile?style=for-the-badge" />
-	<img src="https://img.shields.io/github/last-commit/waugustoaf/rentx-mobile?style=for-the-badge" />
 </p>
 
 <br />
@@ -64,29 +63,3 @@ To contribute with RentX, follow the steps below:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Send to the original branch: `git push origin main`
 5. Create your pull request.
-
-Alternatively, see the GitHub documentation at [collaborating with issues and pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 🤝 Contributors
-
-<table id="contributor">
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/waugustoaf.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Walther Fernandes</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-## 😄 Be one of the contributors<br>
-
-Do you want to be part of this project? Follow the previous steps at 'Contributors' and your name will be here.
-
-## 📝 License
-
-This project is under license. See the [LICENSE](https://github.com/waugustoaf/RentX/blob/main/LICENSE) for more details.
